@@ -1,0 +1,64 @@
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1{
+
+   font-size: 20px !important;
+}
+
+.nav-link{
+
+   color:#000 !important;
+}
+.navbar-brand{
+
+   color: red !important;
+}
+
+.navbar-brand span{
+
+  color: #000 !important;
+}
+.flex-container{
+
+   display: flex !important;
+}
+.btn{
+
+   background: red !important;
+   color: #fff !important;
+
+}
+
+.btn:focus {
+  outline: none !important;
+  box-shadow: none;
+}
+
+select{
+
+   box-shadow: none !important;
+   border-color: #000 !important;
+}
+
+.fa-plus{
+
+   color:green;
+   margin: 8px;
+}
+
+.fa-minus{
+
+   color: red;
+   margin: 8px;
+}
+.fa-trash{
+
+   color: red !important;
+
+}
